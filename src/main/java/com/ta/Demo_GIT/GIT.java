@@ -13,6 +13,14 @@ public class GIT {
 	//dir-enter
 	//git init
 	//git status
-	//
+	//git remote add origin - give path from repository-entre
+	// git remote -v -entre
+	//git config --global user.email "you@example.com"
+	//git config --global user.name "your name"
+	
+	//git add * - entre - git status -- all are in green now
+	//git commit -m --- entre
+	//git push origin master ---> (git push -F)
+	// will ask for user name and passowrd give them - entre
 
 }
